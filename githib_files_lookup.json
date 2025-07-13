@@ -1,0 +1,43 @@
+[
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_customers_dataset.csv",
+	"fileName":"olist_customers.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_geolocation_dataset.csv",
+	"fileName":"olist_geolocation.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_order_items_dataset.csv",
+	"fileName":"olist_order_items.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_order_reviews_dataset.csv",
+	"fileName":"olist_order_reviews.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_orders_dataset.csv",
+	"fileName":"olist_orders.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_products_dataset.csv",
+	"fileName":"olist_products.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_sellers_dataset.csv",
+	"fileName":"olist_sellers.csv"
+	},
+	{
+	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
+	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/product_category_name_translation.csv",
+	"fileName":"product_category_name_translation.csv"
+	}
+
+]
