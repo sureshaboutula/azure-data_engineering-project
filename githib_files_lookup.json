@@ -33,11 +33,6 @@
 	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
 	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/olist_sellers_dataset.csv",
 	"fileName":"olist_sellers.csv"
-	},
-	{
-	"baseUrl":"https://raw.githubusercontent.com/sureshaboutula/",
-	"relativeUrl":"azure-data_engineering-project/refs/heads/master/Data/product_category_name_translation.csv",
-	"fileName":"product_category_name_translation.csv"
 	}
 
 ]
